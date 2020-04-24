@@ -1,23 +1,14 @@
 ---
 title: "Search"
-date: 2020-04-24T07:28:19+02:00
+date: 2020-04-24T08:24:19+02:00
 draft: false
 ---
-<!DOCTYPE html>
-<html>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.8/lunr.min.js"></script>
+<script type="text/javascript" src="/search.js"></script>
 
-<head>
-    <title>Hugo + Lunrjs = &lt;3 search </title>
-</head>
+<input id="search" type="text" placeholder="Search recipe" autofocus>
 
-<body>
-    Search:
-    <input id="search" type="text">
-    <br> Results:
-    <ul id="results">
-    </ul>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.8/lunr.min.js"></script>
-    <script type="text/javascript" src="/search.js"></script>
-</body>
+**Results**
 
-</html>
+<ul id="results">
+</ul>

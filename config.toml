@@ -2,3 +2,6 @@ baseURL = "https://mama.reillybrothers.net/"
 languageCode = "en-us"
 title = "Mama Bear Recipes"
 theme = "ananke"
+
+[markup.goldmark.renderer]
+unsafe = true
