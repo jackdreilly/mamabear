@@ -6,7 +6,7 @@ draft: false
 
 ![Cheese Breakfast Muffins](/cheese_breakfast_muffins.jpg)
 
-## Recipes
+## Recipe
 
 - Cook up country sausage or bacon or ham (about 1 pound)
 - Spray muffin tin thoroughly

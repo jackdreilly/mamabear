@@ -21,7 +21,7 @@ function initLunr() {
                 this.field("tags", {
                     boost: 5
                 });
-                this.field("content");
+                this.field("content", { boost: 1 });
                 // ref is the result item identifier (I chose the page URL)
                 this.ref("uri");
                 pagesIndex.forEach(i => this.add(i));
