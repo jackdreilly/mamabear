@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "hugo-lunr": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "index": "hugo-lunr -o static/lunr.json",
+    "deploy": "npm run index && hugo  --cleanDestinationDir && firebase deploy"
+  }
+}
