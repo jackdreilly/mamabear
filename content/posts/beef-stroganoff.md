@@ -13,7 +13,7 @@ draft: false
 * About 1/2 lb mushrooms (optional)
 * 2 cans (10 1/2 oz each) condensed beef broth
 * 1/2 cup instant minced onions
-* 1/4 C catsup
+* 1/4 C catsup (optional)
 * 1 1/2 tsp garlic salt
 * 1/3 C flour
 * 2 Cups sour cream
